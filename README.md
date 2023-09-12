@@ -1,2 +1,2 @@
 # node-mongo-docker
-teste com node.js e mongodb usando docker
+trying docker compose on node and mongo
